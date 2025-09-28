@@ -18,9 +18,7 @@ Inspired by a fun idea I saw on Instagram – where each Stardew Valley villager
 
 ## 📸 Screenshots
 
-```md
 ![Mood Tracker Interface](images/interface.gif)
-```
 
 ---
 
